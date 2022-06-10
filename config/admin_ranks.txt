@@ -70,8 +70,7 @@ Exclude =
 Edit = EVERYTHING
 
 Name = Lazy Master
-Include = EVERYTHING
-Exclude = AUTOADMIN
+Include = EVERYTHING AUTOADMIN
 Edit = EVERYTHING
 
 Name = Host
