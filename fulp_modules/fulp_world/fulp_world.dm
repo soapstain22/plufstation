@@ -22,7 +22,7 @@
 	s += "</a>"
 	s += ")<br>"
 
-	s += "<br>Beginner Friendly: <b>Learn to play SS13!</b>"
+	s += "<br>SANDBOX MODE: <b>PRACTICE HERE!</b>"
 	s += "<br>Roleplay: \[<b>Medium</b>\]"
 	if(SSmapping.config)
 		s += "<br>Map: \[<b>[SSmapping.config.map_name]</b>"//\] // Since this is the last line, the ] is done automatically for us.

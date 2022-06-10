@@ -5,7 +5,6 @@
 /tmp/**/*
 
 #Ignore byond config folder.
-/cfg/**/*
 
 # Ignore compiled linux libs in the root folder, e.g. librust_g.so
 /*.so
@@ -181,12 +180,6 @@ Temporary Items
 /dmdoc
 
 # Ignore custom music and title screens (amend as appropriate)
-/config/jukebox_music/sounds/*
-!/config/jukebox_music/sounds/exclude
-/config/title_music/sounds/*
-!/config/title_music/sounds/exclude
-/config/title_screens/images/*
-!/config/title_screens/images/exclude
 
 #Linux docker
 /tools/LinuxOneShot/SetupProgram/obj/*
